@@ -1,3 +1,6 @@
+
+
+
 import React from "react";
 import { Link } from "react-scroll";
 import AboutData from "../data/about";
@@ -21,11 +24,12 @@ const About = () => {
           </p>
         </div>
         <div className="mx-auto flex lg:flex-row flex-col items-center justify-center">
+          {/* Adjusted lg:max-w- and lg:w- classes here to slightly decrease image size */}
           <div
             data-aos="zoom-in"
             data-aos-duration="1000"
             data-aos-once="false"
-            className="lg:max-w-lg sm:w-2/3 lg:w-1/2 w-full mb-10 md:mb-0"
+            className="lg:max-w-md sm:w-2/3 lg:w-5/12 w-full mb-10 md:mb-0" 
           >
             <img
               className="object-cover object-center pointer-events-none rounded backdrop-contrast-200 backdrop-brightness-200"

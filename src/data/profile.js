@@ -1,5 +1,5 @@
 const ProfileData = {
-  img: require("../assets/Images/shreyas.png"),
+  img: require("../assets/Images/PTP.png"),
   logo: require("../assets/Images/Name.png"),
   name: "Shreyas Gowda",
   professions: ["Full Stack Developer", "Free Lancer", "Enthusiastic Dev","Innovative Thinker","Creative Coder"],
