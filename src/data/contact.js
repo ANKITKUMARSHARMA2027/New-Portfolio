@@ -1,26 +1,31 @@
-import { FaDiscord, FaGithub, FaLinkedin, FaInstagram, FaWhatsapp } from "react-icons/fa";
+// import { FaDiscord, FaGithub, FaLinkedin,  } from "react-icons/fa";
+
+import { FaDiscord, FaGithub, FaLinkedin } from "react-icons/fa";
+import { SiLeetcode } from "react-icons/si";  // ✅ yeh add karo
+
+
 
 const ContactData = {
-  phone: "+91 8792423869",
-  email: "shreyushreyasgowda4@gmail.com",
-  address: "Mangalore, Karnataka, India",
+  phone: "+91 9006698071",
+  email: "ankitsharmamanjhgayan@gmail.com",
+  address: "Banka, Bihar, India",
   links: [
     {
-      url: "https://github.com/ShreyasKS21",
+      url: "https://github.com/",
       icon: FaGithub,
     },
     {
-      url: "https://www.linkedin.com/in/shreyas-k-s-a9225b383",
+      url: "https://www.linkedin.com/feed/",
       icon: FaLinkedin,
     },
     {
-      url: "https://www.instagram.com/theshreyasgowdaa",
-      icon: FaInstagram,
+      url: "https://leetcode.com/u/ANKITKUMARSHARMA/",
+      icon: SiLeetcode,
     },
-    {
-      url: "https://wa.me/918792423869",
-      icon: FaWhatsapp,
-    },
+    // {
+    //   url: "https://wa.me/9334199521",
+    //   icon: FaGfg,
+    // },
   ],
 };
 

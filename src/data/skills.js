@@ -11,18 +11,18 @@ const SkillsData = [
     name: "JavaScript",
     image: require("../assets/Images/javascript.png"),
   },
-  {
-    name: "TypeScript",
-    image: require("../assets/Images/typescript.png"),
-  },
-  {
-    name: "MongoDB",
-    image: require("../assets/Images/mongodb.png"),
-  },
-  {
-    name: "Express",
-    image: require("../assets/Images/express.png"),
-  },
+  // {
+  //   name: "TypeScript",
+  //   image: require("../assets/Images/typescript.png"),
+  // },
+  // {
+  //   name: "MongoDB",
+  //   image: require("../assets/Images/mongodb.png"),
+  // },
+  // {
+  //   name: "Express",
+  //   image: require("../assets/Images/express.png"),
+  // },
   {
     name: "React",
     image: require("../assets/Images/react.png"),
@@ -31,10 +31,10 @@ const SkillsData = [
     name: "Node",
     image: require("../assets/Images/node.png"),
   },
-  {
-    name: "Redux",
-    image: require("../assets/Images/redux.png"),
-  },
+  // {
+  //   name: "Redux",
+  //   image: require("../assets/Images/redux.png"),
+  // },
   {
     name: "C++",
     image: require("../assets/Images/c.png"),
@@ -47,10 +47,10 @@ const SkillsData = [
     name: "Firebase",
     image: require("../assets/Images/firebase.png"),
   },
-  {
-    name: "Java",
-    image: require("../assets/Images/java.png"),
-  },
+  // {
+  //   name: "Java",
+  //   image: require("../assets/Images/java.png"),
+  // },
   {
     name: "MySQL",
     image: require("../assets/Images/mysql.png"),

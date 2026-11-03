@@ -2,8 +2,7 @@ import React, { useState, useEffect } from "react";
 import { FaCircleArrowUp } from "react-icons/fa6";
 
 const ScrollToTopButton = () => {
-  const [showButton, setShowButton] = useState(false);
-
+const [showButton, setShowButton] = useState(false);
   const handleScroll = () => {
     if (window.scrollY > 300) {
       setShowButton(true);
