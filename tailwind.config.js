@@ -12,5 +12,9 @@ module.exports = {
     },
   },
   plugins: [],
+
+base: process.env.VITE_BASE_PATH ||"/New-Portfolio",
+
+
 };
 

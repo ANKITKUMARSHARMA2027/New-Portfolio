@@ -2,6 +2,7 @@ import React from "react";
 import { FaExternalLinkAlt, FaGithub } from "react-icons/fa";
 import ProjectsData from "../data/projects";
 
+
 const Projects = () => {
   return (
     <section className="text-gray-600 body-font">

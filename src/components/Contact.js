@@ -5,6 +5,8 @@ import { FaEnvelope, FaMapMarkerAlt, FaPhoneAlt } from "react-icons/fa";
 import SocialHandles from "./SocialHandles";
 import ContactData from "../data/contact";
 
+
+
 const Contact = () => {
   const formRef = useRef();
   const handleSubmit = (e) => {
