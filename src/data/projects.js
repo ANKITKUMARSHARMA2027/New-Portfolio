@@ -51,7 +51,7 @@ const ProjectsData = [
   },
 {
     id: "11",
-    name: "Email-Validation-Messenger",
+    name: "Email-Validation-Message",
     image: "./Screenshot 2026-11-05 144352.png",
     icons: [ BiLogoMongodb, SiExpress, BiLogoReact, BiLogoRedux, BiLogoTailwindCss],
     description: "The Email Sending Application is a backend-based project developed using Node.js that allows users to send emails easily and efficiently.",
